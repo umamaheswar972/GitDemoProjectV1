@@ -18,9 +18,9 @@ public class Test {
 		String stayhungry = "Yes";
 		
 		if(stayhungry == "Yes")
-			System.out.println("eat something...");
+			System.out.println("eat something which u like...");
 		else
-			System.out.println("DO work...");
+			System.out.println("Do work...");
 		
 		}
 
